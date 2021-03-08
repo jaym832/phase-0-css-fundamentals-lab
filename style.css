@@ -3,3 +3,60 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+text-align: center;
+}
+
+nav > a{
+  background-color: grey;
+}
+figure{
+  text-align: center;
+}
+
+#featured-property > p{
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  font-size: 15px;
+}
+
+a{
+  padding:0 10px;
+}
+
+
+.contact{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+
+  
+  }
+.correspondence{
+    float: left;
+    background-color: red;
+    text-align: center;
+    width: 25%;
+
+    
+    }
+.links{
+      float: left;
+      background-color: red;
+      text-align: center;
+      width: 25%;
+
+      }  
+  .follow{
+    float: left;
+    background-color: red;
+    text-align: center;
+    width: 25%;
+  }  
+
+
+
+
