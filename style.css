@@ -27,35 +27,12 @@ a{
 }
 
 
-.contact{
+.contact,.correspondence,.links,.follow{
   float: left;
   background-color: red;
   text-align: center;
   width: 25%;
-
-  
   }
-.correspondence{
-    float: left;
-    background-color: red;
-    text-align: center;
-    width: 25%;
-
-    
-    }
-.links{
-      float: left;
-      background-color: red;
-      text-align: center;
-      width: 25%;
-
-      }  
-  .follow{
-    float: left;
-    background-color: red;
-    text-align: center;
-    width: 25%;
-  }  
 
 
 
